@@ -4,7 +4,8 @@ set PATH=^
 D:\msys64\mingw64\bin;^
 D:\msys64\usr\local\bin;^
 D:\msys64\usr\bin;^
-D:\msys64\bin;^D:\msys64\usr\bin\site_perl;^
+D:\msys64\bin;^
+D:\msys64\usr\bin\site_perl;^
 D:\msys64\usr\bin\vendor_perl;^
 D:\msys64\usr\bin\core_perl;^
 D:\Qt;^
